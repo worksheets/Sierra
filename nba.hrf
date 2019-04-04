@@ -1,0 +1,2 @@
+team(T) :- roster(P, T, Y)
+player(P) :- roster(P, T, Y)
